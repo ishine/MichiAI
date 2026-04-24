@@ -11,7 +11,9 @@
 Unlike traditional serial pipelines (ASR → LLM → TTS), MichiAI can listen and speak simultaneously, mimicking natural human conversation with ultra-low latency.
 
 
-[![Read the Blog Post](https://img.shields.io/badge/Read_the_Blog_Post-MichiAI_Part_1-ff7200?style=for-the-badge&logo=ghost)](https://ketsuilabs.io/blog/introducing-michi-ai)
+[![Read the Blog Post](https://img.shields.io/badge/Blog_post_1-Introducing_MichiAI-ff7200?style=for-the-badge&logo=ghost)](https://ketsuilabs.io/blog/introducing-michi-ai)
+
+[![Read the Blog Post](https://img.shields.io/badge/Blog_post_2-Beyond_ASR-ff7200?style=for-the-badge&logo=ghost)](https://ketsuilabs.io/blog/listen-head)
 
 ## ⚡ Quick Specs
 
